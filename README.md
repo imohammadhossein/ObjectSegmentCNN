@@ -10,3 +10,5 @@ We computed the diagnostic features of each image in each category with differen
 Model Regions             |  Statistichal Regions          | Human Perception System Regions 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/1.jpg)  |  ![](/images/2.jpg) | ![](/images/2.jpg) | ![](/images/2.jpg)
+
+So many ravishing outputs happen.
