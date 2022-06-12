@@ -11,9 +11,5 @@ Model Regions             |  Statistichal Regions          | Human Perception Sy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/1.jpg)  |  ![](/images/2.jpg) | ![](/images/2.jpg) | ![](/images/2.jpg)
 
-So many ravishing outputs happen.
 You can either follow our sfc project directory.
 and youtube presentation and article summaries as usual.
-
-moreover, the postprocess situation still has many disabilities and challenges.
-try rendering it more generally.
