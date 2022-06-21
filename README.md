@@ -9,7 +9,7 @@ We computed the diagnostic features of each image in each category with differen
 
 VGG16                      |  ResNet50                 | DenseNet169               |  AlexNet                  |  EfficientNetb0           |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](images/VGG.jpg)        |![](images/Res.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
+![](images/VGG.jpg)        |![](images/RES.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
 
 VGG16             |  ResNet50         | DenseNet 169 | AlexNet | EfficientNetb0 |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
