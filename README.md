@@ -9,7 +9,7 @@ We computed the diagnostic features of each image in each category with differen
 
 VGG16                      |  ResNet50                 | DenseNet169               |  AlexNet                  |  EfficientNetb0           |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](images/African_elephant_1_VGGNet_2400_200.jpg)     |  ![](images/African_elephant_1_ResNet_3600_200.jpg)   | ![](images/African_elephant_1_DenseNet_1500_200.jpg)   |  ![](images/African_elephant_1_AlexNet_1700_200.jpg)  | ![](images/African_elephant_1_EfficientNet_950_200.jpg)|
+![](images/VGG.jpg)        |![](images/Res.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
 
 VGG16             |  ResNet50         | DenseNet 169 | AlexNet | EfficientNetb0 |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
