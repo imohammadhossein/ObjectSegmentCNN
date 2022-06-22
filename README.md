@@ -14,7 +14,8 @@ VGG16                      |  ResNet50                 | DenseNet               
 
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table class="GeneratedTable">
+<table class="GeneratedTable"; table-layout: fixed;
+    width: 100%;>
   <thead>
     <tr>
       <th>VGG-16</th>
