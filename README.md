@@ -9,7 +9,7 @@ We computed the diagnostic features of each image in each category with differen
 
 | **VGG16** | **ResNet50** | **DenseNet169** | **AlexNet  EfficientNet-b0** |
 |:---------:|:------------:|:---------------:|:----------------------------:|
-| [](images/VGG.jpg)          | [](images/VGG.jpg)       | [](images/VGG.jpg)               | [](images/VGG.jpg)                         |
+| ![](images/VGG.jpg)          | ![](images/VGG.jpg)       | ![](images/VGG.jpg)               | ![](images/VGG.jpg)                         |
 
 
 
