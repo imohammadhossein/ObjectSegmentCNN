@@ -13,30 +13,6 @@ VGG16                      |  ResNet50                 | DenseNet               
 ![](images/VGG.jpg)        |![](images/RES.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
 
 
-<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
-<style>
-table.GeneratedTable {
-  width: 100%;
-  background-color: #ffffff;
-  border-collapse: collapse;
-  border-width: 2px;
-  border-color: #babdb6;
-  border-style: double;
-  color: #ffffff;
-}
-
-table.GeneratedTable td, table.GeneratedTable th {
-  border-width: 2px;
-  border-color: #babdb6;
-  border-style: double;
-  padding: 3px;
-}
-
-table.GeneratedTable thead {
-  background-color: #0db734;
-}
-</style>
-
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
