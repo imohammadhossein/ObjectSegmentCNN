@@ -17,11 +17,11 @@ VGG16                      |  ResNet50                 | DenseNet               
 <table class="GeneratedTable">
   <thead>
     <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
+      <th>VGG-16</th>
+      <th>ResNet-50</th>
+      <th>DenseNet-169</th>
+      <th>AlexNet</th>
+      <th>EfficientNet-b0</th>
     </tr>
   </thead>
   <tbody>
