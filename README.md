@@ -26,7 +26,7 @@ VGG16                      |  ResNet50                 | DenseNet               
   </thead>
   <tbody>
     <tr>
-      <td>Cell</td>
+      <td style="width:25%;">Cell</td>
       <td>Cell</td>
       <td>Cell</td>
       <td>Cell</td>
