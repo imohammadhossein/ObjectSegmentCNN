@@ -13,21 +13,9 @@ ul {
     table-layout: fixed;
     border-collapse: collapse;
 }
-li {
-    display: table-cell;
-    text-align: center;
-    border: 1px solid hotpink;
-    vertical-align: middle;
-    word-wrap: break-word;
-}
 
-<ul>
-  <li>foo<br>foo</li>
-  <li>barbarbarbarbar</li>
-  <li>baz</li>
-</ul>
 
-VGG16                      |  ResNet50                 | DenseNet169               |  AlexNet                  |  EfficientNetb0           |
+VGG16                      |  ResNet50                 | DenseNet169               |  AlexNet                  |  Efficien         |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![](images/VGG.jpg)        |![](images/RES.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
 
