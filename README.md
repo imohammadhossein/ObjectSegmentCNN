@@ -10,7 +10,7 @@ We computed the diagnostic features of each image in each category with differen
 
 VGG-Net               | RES-Net           | DNS-Net           | ALX-Net            | EFF-Net       |
 :------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
-![](images/VGG.jpg) |![](images/RES.jpg) |![](images/DNS.jpg) |![](images/ALX.jpg) |![](images/EFF.jpg) |
+![VGG-16](images/VGG.jpg) |![ResNet-50](images/RES.jpg) |![DenseNet-169](images/DNS.jpg) |![Alex Net](images/ALX.jpg) |![EfficientNet-b0](images/EFF.jpg) |
 
 
 
