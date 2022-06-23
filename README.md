@@ -8,9 +8,9 @@ In proposed research, diagnostic regions for human visual perception system and 
 We computed the diagnostic features of each image in each category with different Convolutional Networks, Different Statistichal tests and finally with Human visual perception system.
 
 
-VGG16  &nbsp;|  ResNet50| DenseNet               |  AlexNet                  |  EfficientNet    &nbsp;     |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](images/VGG.jpg)        |![](images/RES.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
+VGG16               | ResNet50           | DenseNet           | AlexNet            | EFF-Net       |
+:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+![](images/VGG.jpg) |![](images/RES.jpg) |![](images/DNS.jpg) |![](images/ALX.jpg) |![](images/EFF.jpg) |
 
 
 
