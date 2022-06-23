@@ -12,37 +12,23 @@ VGG16                      |  ResNet50                 | DenseNet               
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![](images/VGG.jpg)        |![](images/RES.jpg)        |![](images/DNS.jpg)        |![](images/ALX.jpg)        |![](images/EFF.jpg)        |
 
-
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table style="table-layout: fixed; width: 100%;">
-  <thead>
-    <tr>
-      <th>VGG-16</th>
-      <th>ResNet-50</th>
-      <th>DenseNet-169</th>
-      <th>AlexNet</th>
-      <th>EfficientNet-b0</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width:25%;">Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-  </tbody>
-</table>
-<!-- Codes by Quackit.com -->
-
+ <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
 
 
 You can either follow our sfc project directory.
