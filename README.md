@@ -12,12 +12,12 @@ VGG-Net               | RES-Net           | DNS-Net           | ALX-Net         
 :------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 ![VGG-16](images/VGG.jpg) |![ResNet-50](images/RES.jpg) |![DenseNet-169](images/DNS.jpg) |![Alex Net](images/ALX.jpg) |![EfficientNet-b0](images/EFF.jpg) |
 
-| VGG16 |   	|   	|
-|:-----:|:---:|:---:|
-| ResNet-50 	|   	|   	|
-| DenseNet-169  	|   	|   	|
-| AlexNet  	|   	|   	|
-| EfficientNet-b0  	|   	|   	|
+| VGG16           | ![VGG-16](images/VGG.jpg)         	|   	|
+|:---------------:|:-----------------------------------:|:---:|
+| ResNet-50 	    | ![ResNet-50](images/RES.jpg)   	    |   	|
+| DenseNet-169  	| ![DenseNet-169](images/DNS.jpg)   	|   	|
+| AlexNet  	      | ![Alex Net](images/ALX.jpg)       	|   	|
+| EfficientNet-b0 | ![EfficientNet-b0](images/EFF.jpg)  |   	|
 
 You can either follow our sfc project directory.
 and youtube presentation and article summaries as usual.
