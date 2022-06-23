@@ -12,16 +12,12 @@ VGG-Net               | RES-Net           | DNS-Net           | ALX-Net         
 :------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 ![VGG-16](images/VGG.jpg) |![ResNet-50](images/RES.jpg) |![DenseNet-169](images/DNS.jpg) |![Alex Net](images/ALX.jpg) |![EfficientNet-b0](images/EFF.jpg) |
 
-<table>
-  <tr>
-    <th>Fruit</th>
-    <td>Banana</td>
-  </tr>
-  <tr>
-    <th>Vegetable</th>
-    <td>Carrot</td>
-  </tr>
-</table>
+| VGG16 |   	|   	|
+|:-----:|:---:|:---:|
+| ResNet-50 	|   	|   	|
+| DenseNet-169  	|   	|   	|
+| AlexNet  	|   	|   	|
+| EfficientNet-b0  	|   	|   	|
 
 You can either follow our sfc project directory.
 and youtube presentation and article summaries as usual.
