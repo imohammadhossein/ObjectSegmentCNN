@@ -18,3 +18,4 @@ We computed the diagnostic features of each image in each category with differen
 You can either follow our osf project directory.
 and youtube presentation and article summaries as usual.
 code explanation for permutation testsin oython will be added.
+*statistichal tests will be added.
