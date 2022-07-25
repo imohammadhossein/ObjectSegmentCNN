@@ -3,7 +3,7 @@
 A Comparison Between Human Visual Perception Under Object Segmentation and
 Recognition with Current Deep Neural Networks.
 
-## *Abstract* \
+## *Abstract* 
 The idea behind this work is comparing deep convolutional neural networks and human visual perception system in classifying different objects. Moreover, in proposed research, diagnostic regions for human visual system and famous deep convolutional neural networks have been extracted; these regions are the most salient areas of images which have caused for accurate classification. They persumably have more meanings for each systems. 
 We computed the diagnostic features of each image in each category with different Convolutional Networks, Different Statistichal tests and finally with Human visual perception system.
 
