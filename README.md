@@ -3,7 +3,7 @@
 A Comparison Between Human Visual Perception Under Object Segmentation and
 Recognition with Current Deep Neural Networks.
 
-The main approach is inherited from permutation tests and is also many different statistical test have been given which is mentioned below.
+The idea behind this work is comparing deep convolutional neural networks and human visual perception system in classifying different objects. 
 In proposed research, diagnostic regions for human visual perception system and famous deep convolutional neural networks have been compared.
 We computed the diagnostic features of each image in each category with different Convolutional Networks, Different Statistichal tests and finally with Human visual perception system.
 
