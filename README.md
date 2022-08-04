@@ -1,4 +1,4 @@
-# ObjectSegmentCNN
+<h1 align="center">Object Segment CNN</h1>
 
 A Comparison Between Human Visual Perception Under Object Segmentation and
 Recognition with Current Deep Neural Networks.
