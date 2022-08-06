@@ -12,12 +12,12 @@
 
  - **On Deep CNNs**
 
-| VGG16           | ![VGG-16](images/VGG1.jpg)          | ![VGG-16](images/VGG2.jpg)  	      | ![VGG-16](images/VGG3.jpg)  	    | ![VGG-16](images/VGG4.jpg)  	      | ![VGG-16](images/VGG5.jpg)  	      |
+| GBVS           | ![VGG-16](images/VGG1.jpg)          | ![VGG-16](images/VGG2.jpg)  	      | ![VGG-16](images/VGG3.jpg)  	    | ![VGG-16](images/VGG4.jpg)  	      | ![VGG-16](images/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
-| ResNet-50 	  | ![ResNet-50](images/RES1.jpg)   	| ![ResNet-50](images/RES2.jpg)  	  | ![ResNet-50](images/RES3.jpg)  	    | ![ResNet-50](images/RES4.jpg)  	  | ![ResNet-50](images/RES5.jpg)    	  |
-| DenseNet-169    | ![DenseNet-169](images/DNS1.jpg)    | ![DenseNet-169](images/DNS2.jpg)    | ![DenseNet-169](images/DNS3.jpg)    | ![DenseNet-169](images/DNS4.jpg)    | ![DenseNet-169](images/DNS5.jpg)      |
-| AlexNet  	      | ![Alex Net](images/ALX1.jpg)        | ![Alex Net](images/ALX2.jpg)  	  | ![Alex Net](images/ALX3.jpg)  	    | ![Alex Net](images/ALX4.jpg)  	  | ![Alex Net](images/ALX5.jpg)  	      |
-| EfficientNet-b0 | ![EfficientNet-b0](images/EFF1.jpg) | ![EfficientNet-b0](images/EFF2.jpg) | ![EfficientNet-b0](images/EFF3.jpg) | ![EfficientNet-b0](images/EFF4.jpg) | ![EfficientNet-b0](images/EFF5.jpg)   |
+| Itti-Koch 	  | ![ResNet-50](images/RES1.jpg)   	| ![ResNet-50](images/RES2.jpg)  	  | ![ResNet-50](images/RES3.jpg)  	    | ![ResNet-50](images/RES4.jpg)  	  | ![ResNet-50](images/RES5.jpg)    	  |
+| Signature    | ![DenseNet-169](images/DNS1.jpg)    | ![DenseNet-169](images/DNS2.jpg)    | ![DenseNet-169](images/DNS3.jpg)    | ![DenseNet-169](images/DNS4.jpg)    | ![DenseNet-169](images/DNS5.jpg)      |
+| Simpsal  	      | ![Alex Net](images/ALX1.jpg)        | ![Alex Net](images/ALX2.jpg)  	  | ![Alex Net](images/ALX3.jpg)  	    | ![Alex Net](images/ALX4.jpg)  	  | ![Alex Net](images/ALX5.jpg)  	      |
+| Spectral | ![EfficientNet-b0](images/EFF1.jpg) | ![EfficientNet-b0](images/EFF2.jpg) | ![EfficientNet-b0](images/EFF3.jpg) | ![EfficientNet-b0](images/EFF4.jpg) | ![EfficientNet-b0](images/EFF5.jpg)   |
 
  - **On Saliency Models**
  
