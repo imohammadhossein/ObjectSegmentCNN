@@ -27,6 +27,8 @@
 | DenseNet-169    | ![DenseNet-169](images/DNS1.jpg)    | ![DenseNet-169](images/DNS2.jpg)    | ![DenseNet-169](images/DNS3.jpg)    | ![DenseNet-169](images/DNS4.jpg)    | ![DenseNet-169](images/DNS5.jpg)      |
 | AlexNet  	      | ![Alex Net](images/ALX1.jpg)        | ![Alex Net](images/ALX2.jpg)  	  | ![Alex Net](images/ALX3.jpg)  	    | ![Alex Net](images/ALX4.jpg)  	  | ![Alex Net](images/ALX5.jpg)  	      |
 | EfficientNet-b0 | ![EfficientNet-b0](images/EFF1.jpg) | ![EfficientNet-b0](images/EFF2.jpg) | ![EfficientNet-b0](images/EFF3.jpg) | ![EfficientNet-b0](images/EFF4.jpg) | ![EfficientNet-b0](images/EFF5.jpg)   |
+
+
 You can either follow our osf project directory.
 and youtube presentation and article summaries as usual.
 code explanation for permutation testsin oython will be added.
