@@ -26,6 +26,6 @@ code explanation for permutation testsin oython will be added.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mh.nikimaleki@gmail.com
+If you had any feedback, please reach out to me at mh.nikimaleki@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhnikimaleki/)
