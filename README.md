@@ -9,7 +9,8 @@
 > - We computed the diagnostic features of each image in each category with 5 convolutional networks ([VGG16](https://arxiv.org/abs/1409.1556), [ResNet50](https://arxiv.org/abs/1512.03385), [EfficientNetb0](https://arxiv.org/abs/1905.11946),  [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) and [DenseNet-169](https://arxiv.org/pdf/1608.06993.pdf)), 5 saliency models ([GBVS](https://proceedings.neurips.cc/paper/2006/file/4db0f8b0fc895da263fd77fc8aecabe4-Paper.pdf), [Itti](https://www.researchgate.net/publication/3192913_A_Model_of_Saliency-based_Visual_Attention_for_Rapid_Scene_Analysis), [Signature](https://cvhci.anthropomatik.kit.edu/~bschauer/pdf/schauerte2012predicting.pdf), [Simpsal](https://arxiv.org/pdf/2010.12913.pdf) and [Spectral](https://www.researchgate.net/publication/221364530_Saliency_Detection_A_Spectral_Residual_Approach)) and finally with human visual perception system under a designed behavioural task.
 -----
 <h3 align="center">Results</h1>
-* Results on Deep Convolutional Neural Networks
+- Results on Deep Convolutional Neural Networks
+
 | VGG16           | ![VGG-16](images/VGG1.jpg)          | ![VGG-16](images/VGG2.jpg)  	      | ![VGG-16](images/VGG3.jpg)  	    | ![VGG-16](images/VGG4.jpg)  	      | ![VGG-16](images/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
 | ResNet-50 	  | ![ResNet-50](images/RES1.jpg)   	| ![ResNet-50](images/RES2.jpg)  	  | ![ResNet-50](images/RES3.jpg)  	    | ![ResNet-50](images/RES4.jpg)  	  | ![ResNet-50](images/RES5.jpg)    	  |
