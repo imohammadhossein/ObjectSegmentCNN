@@ -22,3 +22,7 @@ You can either follow our osf project directory.
 and youtube presentation and article summaries as usual.
 code explanation for permutation testsin oython will be added.
 *statistichal tests will be added.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhnikimaleki/)
