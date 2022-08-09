@@ -12,22 +12,22 @@
 
  - **On Deep CNNs**
 
-| VGG16           | ![VGG-16](images/VGG1.jpg)          | ![VGG-16](images/VGG2.jpg)  	      | ![VGG-16](images/VGG3.jpg)  	    | ![VGG-16](images/VGG4.jpg)  	      | ![VGG-16](images/VGG5.jpg)  	      |
+| VGG16           | ![VGG-16](images/DCNNs/DCNNsVGG1.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      | ![VGG-16](images/DCNNs/VGG3.jpg)  	    | ![VGG-16](images/DCNNs/VGG4.jpg)  	      | ![VGG-16](images/DCNNs/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
-| ResNet-50 	  | ![ResNet-50](images/RES1.jpg)   	| ![ResNet-50](images/RES2.jpg)  	  | ![ResNet-50](images/RES3.jpg)  	    | ![ResNet-50](images/RES4.jpg)  	  | ![ResNet-50](images/RES5.jpg)    	  |
-| DenseNet-169    | ![DenseNet-169](images/DNS1.jpg)    | ![DenseNet-169](images/DNS2.jpg)    | ![DenseNet-169](images/DNS3.jpg)    | ![DenseNet-169](images/DNS4.jpg)    | ![DenseNet-169](images/DNS5.jpg)      |
-| AlexNet  	      | ![Alex Net](images/ALX1.jpg)        | ![Alex Net](images/ALX2.jpg)  	  | ![Alex Net](images/ALX3.jpg)  	    | ![Alex Net](images/ALX4.jpg)  	  | ![Alex Net](images/ALX5.jpg)  	      |
-| EfficientNet-b0 | ![EfficientNet-b0](images/EFF1.jpg) | ![EfficientNet-b0](images/EFF2.jpg) | ![EfficientNet-b0](images/EFF3.jpg) | ![EfficientNet-b0](images/EFF4.jpg) | ![EfficientNet-b0](images/EFF5.jpg)   |
+| ResNet-50 	  | ![ResNet-50](images/DCNNs/RES1.jpg)   	| ![ResNet-50](images/DCNNs/RES2.jpg)  	  | ![ResNet-50](images/DCNNs/RES3.jpg)  	    | ![ResNet-50](images/DCNNs/RES4.jpg)  	  | ![ResNet-50](images/DCNNs/RES5.jpg)    	  |
+| DenseNet-169    | ![DenseNet-169](images/DCNNs/DNS1.jpg)    | ![DenseNet-169](images/DCNNs/DNS2.jpg)    | ![DenseNet-169](images/DCNNs/DNS3.jpg)    | ![DenseNet-169](images/DCNNs/DNS4.jpg)    | ![DenseNet-169](images/DCNNs/DNS5.jpg)      |
+| AlexNet  	      | ![Alex Net](images/DCNNs/ALX1.jpg)        | ![Alex Net](images/DCNNs/ALX2.jpg)  	  | ![Alex Net](images/DCNNs/ALX3.jpg)  	    | ![Alex Net](images/DCNNs/ALX4.jpg)  	  | ![Alex Net](images/DCNNs/ALX5.jpg)  	      |
+| EfficientNet-b0 | ![EfficientNet-b0](images/DCNNs/EFF1.jpg) | ![EfficientNet-b0](images/DCNNs/EFF2.jpg) | ![EfficientNet-b0](images/DCNNs/EFF3.jpg) | ![EfficientNet-b0](images/DCNNs/EFF4.jpg) | ![EfficientNet-b0](images/DCNNs/EFF5.jpg)   |
 
  - **On Saliency Models**
  
 
-| GBVS           | ![VGG-16](images/VGG1.jpg)          | ![VGG-16](images/VGG2.jpg)  	      | ![VGG-16](images/VGG3.jpg)  	    | ![VGG-16](images/VGG4.jpg)  	      | ![VGG-16](images/VGG5.jpg)  	      |
+| GBVS           | ![VGG-16](images/Saliencies/VGG1.jpg)          | ![VGG-16](images/Saliencies/VGG2.jpg)  	      | ![VGG-16](images/Saliencies/VGG3.jpg)  	    | ![VGG-16](images/Saliencies/VGG4.jpg)  	      | ![VGG-16](images/Saliencies/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
-| Itti-Koch 	  | ![ResNet-50](images/RES1.jpg)   	| ![ResNet-50](images/RES2.jpg)  	  | ![ResNet-50](images/RES3.jpg)  	    | ![ResNet-50](images/RES4.jpg)  	  | ![ResNet-50](images/RES5.jpg)    	  |
-| Signature    | ![DenseNet-169](images/DNS1.jpg)    | ![DenseNet-169](images/DNS2.jpg)    | ![DenseNet-169](images/DNS3.jpg)    | ![DenseNet-169](images/DNS4.jpg)    | ![DenseNet-169](images/DNS5.jpg)      |
-| Simpsal  	      | ![Alex Net](images/ALX1.jpg)        | ![Alex Net](images/ALX2.jpg)  	  | ![Alex Net](images/ALX3.jpg)  	    | ![Alex Net](images/ALX4.jpg)  	  | ![Alex Net](images/ALX5.jpg)  	      |
-| Spectral | ![EfficientNet-b0](images/EFF1.jpg) | ![EfficientNet-b0](images/EFF2.jpg) | ![EfficientNet-b0](images/EFF3.jpg) | ![EfficientNet-b0](images/EFF4.jpg) | ![EfficientNet-b0](images/EFF5.jpg)   |
+| Itti-Koch 	  | ![ResNet-50](images/Saliencies/RES1.jpg)   	| ![ResNet-50](images/Saliencies/RES2.jpg)  	  | ![ResNet-50](images/Saliencies/RES3.jpg)  	    | ![ResNet-50](images/Saliencies/RES4.jpg)  	  | ![ResNet-50](images/Saliencies/RES5.jpg)    	  |
+| Signature    | ![DenseNet-169](images/Saliencies/DNS1.jpg)    | ![DenseNet-169](images/Saliencies/DNS2.jpg)    | ![DenseNet-169](images/Saliencies/DNS3.jpg)    | ![DenseNet-169](images/Saliencies/DNS4.jpg)    | ![DenseNet-169](images/Saliencies/DNS5.jpg)      |
+| Simpsal  	      | ![Alex Net](images/Saliencies/ALX1.jpg)        | ![Alex Net](images/Saliencies/ALX2.jpg)  	  | ![Alex Net](images/Saliencies/ALX3.jpg)  	    | ![Alex Net](images/Saliencies/ALX4.jpg)  	  | ![Alex Net](images/Saliencies/ALX5.jpg)  	      |
+| Spectral | ![EfficientNet-b0](images/Saliencies/EFF1.jpg) | ![EfficientNet-b0](images/Saliencies/EFF2.jpg) | ![EfficientNet-b0](images/Saliencies/EFF3.jpg) | ![EfficientNet-b0](images/Saliencies/EFF4.jpg) | ![EfficientNet-b0](images/Saliencies/EFF5.jpg)   |
 
 You can either follow our osf project directory.
 and youtube presentation and article summaries as usual.
