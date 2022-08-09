@@ -10,7 +10,7 @@
 
 <h3 align="center">Results</h1>
 
- - **On Deep CNNs** (will be added)
+ - **On Deep CNNs** 
 
 | VGG16           | ![VGG-16](images/DCNNs/DCNNsVGG1.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      | ![VGG-16](images/DCNNs/VGG3.jpg)  	    | ![VGG-16](images/DCNNs/VGG4.jpg)  	      | ![VGG-16](images/DCNNs/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
@@ -19,7 +19,7 @@
 | AlexNet  	      | ![Alex Net](images/DCNNs/ALX1.jpg)        | ![Alex Net](images/DCNNs/ALX2.jpg)  	  | ![Alex Net](images/DCNNs/ALX3.jpg)  	    | ![Alex Net](images/DCNNs/ALX4.jpg)  	  | ![Alex Net](images/DCNNs/ALX5.jpg)  	      |
 | EfficientNet-b0 | ![EfficientNet-b0](images/DCNNs/EFF1.jpg) | ![EfficientNet-b0](images/DCNNs/EFF2.jpg) | ![EfficientNet-b0](images/DCNNs/EFF3.jpg) | ![EfficientNet-b0](images/DCNNs/EFF4.jpg) | ![EfficientNet-b0](images/DCNNs/EFF5.jpg)   |
 
- - **On Saliency Models**
+ - **On Saliency Models** (will be added)
  
 
 | GBVS           | ![VGG-16](images/Saliencies/VGG1.jpg)          | ![VGG-16](images/Saliencies/VGG2.jpg)  	      | ![VGG-16](images/Saliencies/VGG3.jpg)  	    | ![VGG-16](images/Saliencies/VGG4.jpg)  	      | ![VGG-16](images/Saliencies/VGG5.jpg)  	      |
