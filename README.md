@@ -30,9 +30,9 @@
 | Spectral | ![EfficientNet-b0](images/Saliencies/EFF1.jpg) | ![EfficientNet-b0](images/Saliencies/EFF2.jpg) | ![EfficientNet-b0](images/Saliencies/EFF3.jpg) | ![EfficientNet-b0](images/Saliencies/EFF4.jpg) | ![EfficientNet-b0](images/Saliencies/EFF5.jpg)   |
 
 > - Also visit our osf project.
-> youtube presentation and 
-> article summaries as usual.
-code explanation for permutation testsin oython will be added.
+> - youtube presentation and 
+> - article summaries as usual.
+code explanation for permutation tests in python will be added.
 
 <details>
 <summary>Preview</summary>
