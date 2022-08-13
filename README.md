@@ -32,7 +32,7 @@
 > - Also visit our osf project.
 > - youtube presentation and 
 > - article summaries as usual.
-code explanation for permutation tests in python will be added.
+> - code explanation for permutation tests in python will be added.
 
 <details>
 <summary>Preview</summary>
