@@ -33,6 +33,7 @@
 > - youtube presentation and 
 > - article summaries as usual.
 > - code explanation for permutation tests in python will be added.
+> - behavioural task also
 
 <details>
 <summary>Preview</summary>
