@@ -31,11 +31,11 @@
 | Simpsal  	      | ![Alex Net](images/Saliencies/ALX1.jpg)        | ![Alex Net](images/Saliencies/ALX2.jpg)  	  | ![Alex Net](images/Saliencies/ALX3.jpg)  	    | ![Alex Net](images/Saliencies/ALX4.jpg)  	  | ![Alex Net](images/Saliencies/ALX5.jpg)  	      |
 | Spectral | ![EfficientNet-b0](images/Saliencies/EFF1.jpg) | ![EfficientNet-b0](images/Saliencies/EFF2.jpg) | ![EfficientNet-b0](images/Saliencies/EFF3.jpg) | ![EfficientNet-b0](images/Saliencies/EFF4.jpg) | ![EfficientNet-b0](images/Saliencies/EFF5.jpg)   |
 
-> - Also visit our osf project.
-> - youtube presentation and 
-> - article summaries as usual.
-> - code explanation for permutation tests in python will be added.
-> - behavioural task also
+> - OSF project.
+> - youtube presentation 
+> - Abstract articles
+> - Code explanation for permutation tests
+> - Behavioural task
 
 <details>
 <summary>Preview</summary>
