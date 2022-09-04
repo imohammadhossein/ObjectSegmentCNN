@@ -26,7 +26,7 @@
 
 | GBVS           | ![GBVS](images/Saliencies/GBVS1.jpg)          | ![GBVS](images/Saliencies/GBVS2.jpg)  	      | ![GBVS](images/Saliencies/GBVS3.jpg)  	    | ![GBVS](images/Saliencies/GBVS4.jpg)  	      | ![GBVS](images/Saliencies/GBVS5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
-| Itti-Koch 	  | ![ResNet-50](images/Saliencies/RES1.jpg)   	| ![ResNet-50](images/Saliencies/RES2.jpg)  	  | ![ResNet-50](images/Saliencies/RES3.jpg)  	    | ![ResNet-50](images/Saliencies/RES4.jpg)  	  | ![ResNet-50](images/Saliencies/RES5.jpg)    	  |
+| Itti-Koch 	  | ![Itti-Koch](images/Saliencies/itti1.jpg)   	| ![Itti-Koch](images/Saliencies/itti2.jpg)  	  | ![Itti-Koch](images/Saliencies/itti3.jpg)  	    | ![Itti-Koch](images/Saliencies/itti4.jpg)  	  | ![Itti-Koch](images/Saliencies/itti5.jpg)    	  |
 | Signature    | ![DenseNet-169](images/Saliencies/DNS1.jpg)    | ![DenseNet-169](images/Saliencies/DNS2.jpg)    | ![DenseNet-169](images/Saliencies/DNS3.jpg)    | ![DenseNet-169](images/Saliencies/DNS4.jpg)    | ![DenseNet-169](images/Saliencies/DNS5.jpg)      |
 | Simpsal  	      | ![Alex Net](images/Saliencies/ALX1.jpg)        | ![Alex Net](images/Saliencies/ALX2.jpg)  	  | ![Alex Net](images/Saliencies/ALX3.jpg)  	    | ![Alex Net](images/Saliencies/ALX4.jpg)  	  | ![Alex Net](images/Saliencies/ALX5.jpg)  	      |
 | Spectral | ![EfficientNet-b0](images/Saliencies/EFF1.jpg) | ![EfficientNet-b0](images/Saliencies/EFF2.jpg) | ![EfficientNet-b0](images/Saliencies/EFF3.jpg) | ![EfficientNet-b0](images/Saliencies/EFF4.jpg) | ![EfficientNet-b0](images/Saliencies/EFF5.jpg)   |
