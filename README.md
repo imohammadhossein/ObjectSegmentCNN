@@ -14,7 +14,7 @@
 
  - **On Deep CNNs** 
 
-| VGG16           | ![VGG-16](images/DCNNs/DCNNsVGG1.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      | ![VGG-16](images/DCNNs/VGG3.jpg)  	    | ![VGG-16](images/DCNNs/VGG4.jpg)  	      | ![VGG-16](images/DCNNs/VGG5.jpg)  	      |
+| VGG16           | ![VGG-16](images/DCNNs/VGG1.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      | ![VGG-16](images/DCNNs/VGG3.jpg)  	    | ![VGG-16](images/DCNNs/VGG4.jpg)  	      | ![VGG-16](images/DCNNs/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
 | ResNet-50 	  | ![ResNet-50](images/DCNNs/RES1.jpg)   	| ![ResNet-50](images/DCNNs/RES2.jpg)  	  | ![ResNet-50](images/DCNNs/RES3.jpg)  	    | ![ResNet-50](images/DCNNs/RES4.jpg)  	  | ![ResNet-50](images/DCNNs/RES5.jpg)    	  |
 | DenseNet-169    | ![DenseNet-169](images/DCNNs/DNS1.jpg)    | ![DenseNet-169](images/DCNNs/DNS2.jpg)    | ![DenseNet-169](images/DCNNs/DNS3.jpg)    | ![DenseNet-169](images/DCNNs/DNS4.jpg)    | ![DenseNet-169](images/DCNNs/DNS5.jpg)      |
@@ -24,7 +24,7 @@
  - **On Saliency Models** (will be added)
  
 
-| GBVS           | ![VGG-16](images/Saliencies/VGG1.jpg)          | ![VGG-16](images/Saliencies/VGG2.jpg)  	      | ![VGG-16](images/Saliencies/VGG3.jpg)  	    | ![VGG-16](images/Saliencies/VGG4.jpg)  	      | ![VGG-16](images/Saliencies/VGG5.jpg)  	      |
+| GBVS           | ![GBVS](images/Saliencies/VGG1.jpg)          | ![GBVS](images/Saliencies/VGG2.jpg)  	      | ![GBVS](images/Saliencies/VGG3.jpg)  	    | ![GBVS](images/Saliencies/VGG4.jpg)  	      | ![GBVS](images/Saliencies/VGG5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
 | Itti-Koch 	  | ![ResNet-50](images/Saliencies/RES1.jpg)   	| ![ResNet-50](images/Saliencies/RES2.jpg)  	  | ![ResNet-50](images/Saliencies/RES3.jpg)  	    | ![ResNet-50](images/Saliencies/RES4.jpg)  	  | ![ResNet-50](images/Saliencies/RES5.jpg)    	  |
 | Signature    | ![DenseNet-169](images/Saliencies/DNS1.jpg)    | ![DenseNet-169](images/Saliencies/DNS2.jpg)    | ![DenseNet-169](images/Saliencies/DNS3.jpg)    | ![DenseNet-169](images/Saliencies/DNS4.jpg)    | ![DenseNet-169](images/Saliencies/DNS5.jpg)      |
