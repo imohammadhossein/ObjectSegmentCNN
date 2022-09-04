@@ -28,7 +28,7 @@
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
 | Itti-Koch 	  | ![Itti-Koch](images/Saliencies/itti1.jpg)   	| ![Itti-Koch](images/Saliencies/itti2.jpg)  	  | ![Itti-Koch](images/Saliencies/itti3.jpg)  	    | ![Itti-Koch](images/Saliencies/itti4.jpg)  	  | ![Itti-Koch](images/Saliencies/itti5.jpg)    	  |
 | Signature    | ![Signature](images/Saliencies/Signature1.jpg)    | ![Signature](images/Saliencies/Signature2.jpg)    | ![Signature](images/Saliencies/Signature3.jpg)    | ![Signature](images/Saliencies/Signature4.jpg)    | ![Signature](images/Saliencies/Signature5.jpg)      |
-| Simpsal  	      | ![Alex Net](images/Saliencies/ALX1.jpg)        | ![Alex Net](images/Saliencies/ALX2.jpg)  	  | ![Alex Net](images/Saliencies/ALX3.jpg)  	    | ![Alex Net](images/Saliencies/ALX4.jpg)  	  | ![Alex Net](images/Saliencies/ALX5.jpg)  	      |
+| Simpsal  	      | ![Simpsal](images/Saliencies/Simpsal1.jpg)        | ![Simpsal](images/Saliencies/Simpsal2.jpg)  	  | ![Simpsal](images/Saliencies/Simpsal3.jpg)  	    | ![Simpsal](images/Saliencies/Simpsal4.jpg)  	  | ![Simpsal](images/Saliencies/Simpsal5.jpg)  	      |
 | Spectral | ![EfficientNet-b0](images/Saliencies/EFF1.jpg) | ![EfficientNet-b0](images/Saliencies/EFF2.jpg) | ![EfficientNet-b0](images/Saliencies/EFF3.jpg) | ![EfficientNet-b0](images/Saliencies/EFF4.jpg) | ![EfficientNet-b0](images/Saliencies/EFF5.jpg)   |
 
 > - OSF project.
