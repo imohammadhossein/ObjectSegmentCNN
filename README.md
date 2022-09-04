@@ -24,7 +24,7 @@
  - **On Saliency Models** (will be added)
  
 
-| GBVS           | ![GBVS](images/Saliencies/VGG1.jpg)          | ![GBVS](images/Saliencies/VGG2.jpg)  	      | ![GBVS](images/Saliencies/VGG3.jpg)  	    | ![GBVS](images/Saliencies/VGG4.jpg)  	      | ![GBVS](images/Saliencies/VGG5.jpg)  	      |
+| GBVS           | ![GBVS](images/Saliencies/GBVS1.jpg)          | ![GBVS](images/Saliencies/GBVS2.jpg)  	      | ![GBVS](images/Saliencies/GBVS3.jpg)  	    | ![GBVS](images/Saliencies/GBVS4.jpg)  	      | ![GBVS](images/Saliencies/GBVS5.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------:|
 | Itti-Koch 	  | ![ResNet-50](images/Saliencies/RES1.jpg)   	| ![ResNet-50](images/Saliencies/RES2.jpg)  	  | ![ResNet-50](images/Saliencies/RES3.jpg)  	    | ![ResNet-50](images/Saliencies/RES4.jpg)  	  | ![ResNet-50](images/Saliencies/RES5.jpg)    	  |
 | Signature    | ![DenseNet-169](images/Saliencies/DNS1.jpg)    | ![DenseNet-169](images/Saliencies/DNS2.jpg)    | ![DenseNet-169](images/Saliencies/DNS3.jpg)    | ![DenseNet-169](images/Saliencies/DNS4.jpg)    | ![DenseNet-169](images/Saliencies/DNS5.jpg)      |
