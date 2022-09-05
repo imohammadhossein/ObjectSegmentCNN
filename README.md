@@ -9,7 +9,7 @@
 > - We computed the diagnostic features of each image in each category with 5 convolutional networks ([VGG16](https://arxiv.org/abs/1409.1556), [ResNet50](https://arxiv.org/abs/1512.03385), [EfficientNetb0](https://arxiv.org/abs/1905.11946),  [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) and [DenseNet-169](https://arxiv.org/pdf/1608.06993.pdf)), 5 saliency models ([GBVS](https://proceedings.neurips.cc/paper/2006/file/4db0f8b0fc895da263fd77fc8aecabe4-Paper.pdf), [Itti](https://www.researchgate.net/publication/3192913_A_Model_of_Saliency-based_Visual_Attention_for_Rapid_Scene_Analysis), [Signature](https://cvhci.anthropomatik.kit.edu/~bschauer/pdf/schauerte2012predicting.pdf), [Simpsal](https://arxiv.org/pdf/2010.12913.pdf) and [Spectral](https://www.researchgate.net/publication/221364530_Saliency_Detection_A_Spectral_Residual_Approach)) and finally with human visual perception system under a designed behavioural task.
 
 > - Have a look at following visual results for each section.
-
+-----------------
 <h3 align="center">Results</h1>
 
  - **On Deep CNNs** 
@@ -30,6 +30,8 @@
 | Signature    | ![Signature](images/Saliencies/Signature1.jpg)    | ![Signature](images/Saliencies/Signature2.jpg)    | ![Signature](images/Saliencies/Signature3.jpg)    | ![Signature](images/Saliencies/Signature4.jpg)    | ![Signature](images/Saliencies/Signature5.jpg)      |
 | Simpsal  	      | ![Simpsal](images/Saliencies/Simpsal1.jpg)        | ![Simpsal](images/Saliencies/Simpsal2.jpg)  	  | ![Simpsal](images/Saliencies/Simpsal3.jpg)  	    | ![Simpsal](images/Saliencies/Simpsal4.jpg)  	  | ![Simpsal](images/Saliencies/Simpsal5.jpg)  	      |
 | Spectral | ![Spectral](images/Saliencies/Spectral1.jpg) | ![Spectral](images/Saliencies/Spectral2.jpg) | ![Spectral](images/Saliencies/Spectral3.jpg) | ![Spectral](images/Saliencies/Spectral4.jpg) | ![Spectral](images/Saliencies/Spectral5.jpg)   |
+
+------------------
 
 > - You can also follow and check our project in Open Science Framework.
 
