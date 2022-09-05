@@ -31,7 +31,8 @@
 | Simpsal  	      | ![Simpsal](images/Saliencies/Simpsal1.jpg)        | ![Simpsal](images/Saliencies/Simpsal2.jpg)  	  | ![Simpsal](images/Saliencies/Simpsal3.jpg)  	    | ![Simpsal](images/Saliencies/Simpsal4.jpg)  	  | ![Simpsal](images/Saliencies/Simpsal5.jpg)  	      |
 | Spectral | ![Spectral](images/Saliencies/Spectral1.jpg) | ![Spectral](images/Saliencies/Spectral2.jpg) | ![Spectral](images/Saliencies/Spectral3.jpg) | ![Spectral](images/Saliencies/Spectral4.jpg) | ![Spectral](images/Saliencies/Spectral5.jpg)   |
 
-> - OSF project.
+> - You can also follow and check our project in Open Science Framework.
+
 > - youtube presentation 
 > - Abstract articles
 > - Code explanation for permutation tests
