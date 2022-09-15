@@ -1,6 +1,6 @@
 <h1 align="center">Object Segment CNN</h1>
 
-<h6 align="center">A Comparison Between Human Visual Perception Under Object Segmentation and Recognition with Current Deep Neural Networks.</h6>
+<h6 align="center">A Comparison Between Human Visual Perception Under Object Segmentation and Recognition with State of the Art Deep Neural Networks.</h6>
 
 <h3 align="center">Abstract</h1>
 
