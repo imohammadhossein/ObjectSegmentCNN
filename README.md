@@ -34,7 +34,7 @@
 ------------------
 
 > - You can also follow and check our project in Open Science Framework [here](https://osf.io/5v829/).
-> - Understanding Vision 2021 [here](conferences/Understanding_Vision_2021/Abstract.pdf) and [here](conferences/Understanding_Vision_2021/Presentation.pdf)
+> - Understanding Vision 2021 [Abstract](Conferences/Understanding_Vision_2021/Abstract.pdf) and [Presentation](Conferences/Understanding_Vision_2021/Presentation.pdf)
 > - ECVP 2021 Abstract and Youtube presentation 
 > - Abstract articles
 > - Code explanation for permutation tests
