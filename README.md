@@ -35,8 +35,9 @@
 
 > - You can also follow and check our project in Open Science Framework [here](https://osf.io/5v829/).
 > - Understanding Vision 2021 [Abstract](Conferences/Understanding_Vision_2021/Abstract.pdf) and [Presentation](Conferences/Understanding_Vision_2021/Presentation.pdf)
+> - IICCSSS 2021 [Abstract](Conferences/IICCSSS_2021/Abstract.pdf) and [Presentation](Conferences/IICCSSS_2021/Presentation.wmv)
 > - ECVP 2021 Abstract and Youtube presentation 
-> - Abstract articles
+
 > - Code explanation for permutation tests
 > - Behavioural task
 
