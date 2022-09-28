@@ -41,14 +41,6 @@
 > - Code explanation for permutation tests
 > - Behavioural task
 
-<details>
-<summary>Preview</summary>
-
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
-
-</details>
 
 ## Feedback
 If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
