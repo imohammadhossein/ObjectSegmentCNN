@@ -41,10 +41,12 @@
 
 -----------------
 <h3 align="center">Codes Explanation</h1>
+
 > - Code explanation for permutation tests
 
 -----------------
 <h3 align="center">Behavioural Task</h1>
+
 > - Behavioural task for obtaining diagnostic regions of human visual perception system is under construction and will be published soon.
 
 
